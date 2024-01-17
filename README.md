@@ -1,16 +1,9 @@
-# Repository Template
+# Bookworm Reads Documentation
 
 [![Join Discord](https://img.shields.io/badge/Bookworm-Join_Discord-blue)][discord]
 
-<!--- Provide high-level context on what this repository contains --->
+General and Technical Documentation for all Bookworm Reads code.
 
-## Prerequisites
-<!--- Provide details on what is needed to work with this service --->
-
-## Run Locally
-<!--- Provide details on how to run this service --->
-
-## Testing
-<!--- Provide details on how to test this service --->
+Bookworm Reads is a mobile-first platform to track your books, see what your friends are reading, and be a part of a vibrant digital community of readers.
 
 [discord]: https://discord.gg/7skRJ9nBxn
