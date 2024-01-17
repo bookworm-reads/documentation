@@ -1,15 +1,6 @@
 # Bookworm Reads Contribution Guide
 
-We'd love for you to contribute to our source code and to make Bookworm Reads technology even better than it is today! Here are the guidelines we'd like you to follow:
-
-* [Questions and Problems][contribute.question]
-* [Issues and Bugs][contribute.issues]
-* [Feature Requests][contribute.feature]
-* [Improving Documentation][contribute.docs]
-* [Issue Submission Guidelines][contribute.issue.submit]
-* [Contribution Requirements][contribute.reqs]
-* [Pull Request Submission Guidelines][contribute.pr]
-* [Commit Guidelines][contribute.commit]
+We'd love for you to contribute to our source code and to make Bookworm Reads technology even better than it is today! Below are the guidelines we'd like you to follow.
 
 ## Questions, Bugs, Features
 
@@ -53,7 +44,7 @@ Before you can build one of our libraries, you must install and configure the fo
 
 Before you submit your Pull Request, consider the following guidelines:
 
-* First check whether there is an open Issue for what you will be working on. If there is not, open one up by going through the [Issue Submission Guidelines][contribute.issue], including links to _related_ Issues found for context.
+* First check whether there is an open Issue for what you will be working on. If there is not, open one up by going through the Issue Submission Guidelines, including links to _related_ Issues found for context.
 * Search for an open or closed Pull Request that relates to your submission. You don't want to duplicate effort, and you also want to include links to _related_ Pull Requests found for context.
 * Make your changes in a new git branch:
 
@@ -65,8 +56,8 @@ git checkout -b <YOUR_USERNAME>/<ISSUE_NUMBER>/<SHORT_DESCRIPTION> main
 
 * Create your patch commit, **including appropriate test cases**.
 * Ensure you provide a DCO sign-off for your commits using the `--signoff` option of git commit. For more information see [how this works][dcohow].
-* Commit your changes using descriptive commit messages that follows our [Commit Guidelines][contribute.commit].
-* Pull Request titles should follow the same [Commit Guidelines][contribute.commit].
+* Commit your changes using descriptive commit messages that follows our Commit Guidelines.
+* Pull Request titles should follow the same Commit Guidelines.
 * When approved and ready to merge, a Pull Request should be squashed down to a single buildable commit and merged into `main`.
 
 
@@ -120,15 +111,6 @@ The subject contains a succinct description of the change:
 The footer should contain reference GitHub Issues that this commit addresses.
 
 [discord]: https://discord.gg/7skRJ9nBxn
-
-[contribute.question]: CONTRIBUTING#-questions-and-problems
-[contribute.issues]: CONTRIBUTING#-issues-and-bugs
-[contribute.feature]: CONTRIBUTING#-feature-request
-[contribute.docs]: CONTRIBUTING#-improving-documentation
-[contribute.issue.submit]: CONTRIBUTING#-issue-submission-guidelines
-[contribute.reqs]: CONTRIBUTING#-contribution-requirements
-[contribute.pr]: CONTRIBUTING#-pull-request-submission-guidelines
-[contribute.commit]: CONTRIBUTING#-commit-guidelines
 
 [git]: http://git-scm.com/
 [git-setup]: https://help.github.com/en/articles/set-up-git
