@@ -2,6 +2,8 @@
 
 We'd love for you to contribute to our source code and to make Bookworm Reads technology even better than it is today! Below are the guidelines we'd like you to follow.
 
+For Issues, Pull Requests, and code, please refer to our [Inclusive Language Guide][lang].
+
 ## Questions, Bugs, Features
 
 ### Questions and Problems
@@ -119,3 +121,5 @@ The footer should contain reference GitHub Issues that this commit addresses.
 [nvm-windows]: https://github.com/coreybutler/nvm-windows
 
 [dcohow]: https://github.com/probot/dco#how-it-works
+
+[lang]: inclusive-language.md
