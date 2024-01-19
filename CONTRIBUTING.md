@@ -6,7 +6,7 @@ We'd love for you to contribute to our source code and to make Bookworm Reads te
 
 ### Questions and Problems
 
-We want to keep GitHub Issues dedicated to bug reports and feature requests. Any general support questions are better directed towards a dedicated support platform, the best being the [Bookworm Reads Discord][discord].
+We want to keep GitHub Issues dedicated to bug reports and feature requests. Any general support questions are better directed towards a dedicated support platform, the best being the [Bookworm Reads Discord][discord], the second best being our [support email][support-email].
 
 ### Issues and Bugs
 
@@ -111,6 +111,7 @@ The subject contains a succinct description of the change:
 The footer should contain reference GitHub Issues that this commit addresses.
 
 [discord]: https://discord.gg/7skRJ9nBxn
+[support-email]: mailto:support@bookwormreads.co
 
 [git]: http://git-scm.com/
 [git-setup]: https://help.github.com/en/articles/set-up-git
