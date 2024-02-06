@@ -57,7 +57,6 @@ git checkout -b <YOUR_USERNAME>/<ISSUE_NUMBER>/<SHORT_DESCRIPTION> main
 ```
 
 * Create your patch commit, **including appropriate test cases**.
-* Ensure you provide a DCO sign-off for your commits using the `--signoff` option of git commit. For more information see [how this works][dcohow].
 * Commit your changes using descriptive commit messages that follows our Commit Guidelines.
 * Pull Request titles should follow the same Commit Guidelines.
 * When approved and ready to merge, a Pull Request should be squashed down to a single buildable commit and merged into `main`.
@@ -120,7 +119,5 @@ The footer should contain reference GitHub Issues that this commit addresses.
 [node]: https://nodejs.org/en/
 [nvm]: https://github.com/creationix/nvm
 [nvm-windows]: https://github.com/coreybutler/nvm-windows
-
-[dcohow]: https://github.com/probot/dco#how-it-works
 
 [lang]: inclusive-language.md

@@ -24,9 +24,7 @@
 - Pull Request #<NUMBER>
 
 ### Author Checklist
-- [ ] Ensure you provide a [DCO sign-off][dco] for your commits using the `--signoff` option of git commit.
 - [ ] Commits messages follow our [format][format]
 - [ ] Merging to `main` from `branch-name`
 
-[dco]: https://github.com/probot/dco#how-it-works
 [format]: https://github.com/bookworm-reads
